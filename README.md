@@ -1,5 +1,5 @@
 # SQL-Challenge
-Importing CSV files into a SQL database, and then working with those data.
+Importing CSV files into a SQL database, and then working with those data. Performing data modeling, data engineering, and data analysis.
 
 ### Background
 
